@@ -1,0 +1,19 @@
+{
+    "name": "Chuck",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "XsqckD5RKNSyze4aACrTMZTDNMZYwhYT441JCMKVhw9",
+          "share": 100
+        }
+      ]
+    }
+  }
